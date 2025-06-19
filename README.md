@@ -7,7 +7,7 @@ local Players = game:GetService("Players")
 local Rayfield = loadstring(game:HttpGet('https://sirius.menu/rayfield'))()
 
 local Window = Rayfield:CreateWindow({
-   Name = "🌱 Spawner V2",
+   Name = "🌱 Spawner",
    LoadingTitle = "Spawner System",
    LoadingSubtitle = "By: Thais Carla Games",
    ConfigurationSaving = {
